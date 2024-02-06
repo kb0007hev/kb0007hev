@@ -50,7 +50,7 @@ alt="Git logo" width="50" height="50" />
 
 <div align="center">
 <img alt="hmm.gif" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" style="position: relative; left: 30px; display: inline-block; margin: 0 auto;" data-hpc="true" class="Box-sc-g0xbh4" /> 
-<h4> love engaging in ideas that improve things and make things better.</h4>
+<h4> love engaging in ideas that improve things, and make things better.</h4>
 </div>
 
 
