@@ -25,8 +25,7 @@ I am a Full Stack Software Developer practicing and specializing in:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
 alt="html logo" width="50" height="50" /> 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
-alt="html logo" width="50" height="50" /> 
+
 
 
 
@@ -54,6 +53,8 @@ alt="mongoDB logo" width="50" height="50" />
 alt="Node logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
 alt="MySQL logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
+alt="Git logo" width="50" height="50" /> 
 
 
 
