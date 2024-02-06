@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I am Kevin 
+<div align="center">
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I am Kevin 
+</div>
+
 ---
 I am a Full Stack Software Developer practicing and specializing in: 
 •	HTML
@@ -13,6 +16,9 @@ I am a Full Stack Software Developer practicing and specializing in:
 •	SQL/NoSQL 
 •	Database Management 
 ---
+
+<div align="center">
+
 🧰 Toolbox, 
 
 
@@ -34,7 +40,22 @@ alt="Node logo" width="50" height="50" />
 alt="MySQL logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
 alt="Git logo" width="50" height="50" /> 
+</div>
+---
 
+
+
+<img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" >
+
+
+<div align="center">
+<img alt="hmm.gif" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" style="position: relative; left: 30px; display: inline-block; margin: 0 auto;" data-hpc="true" class="Box-sc-g0xbh4" /> 
+  <h4I love engaging in ideas that improve things and make things better.</h4>
+</div>
+
+
+
+<img src="https://imgur.com/rilHVxA.png"/>
 
 
 
@@ -45,7 +66,7 @@ alt="Git logo" width="50" height="50" />
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on C# Full Stack Deve
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
