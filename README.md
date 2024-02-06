@@ -1,6 +1,18 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I am Kevin 
 ---
-
+I am a Full Stack Software Developer practicing and specializing in: 
+•	HTML
+•	CSS
+•	Java-Script
+•	Responsive Web Design
+•	MongoDB
+•	Express
+•	REACT
+•	NodeJS
+•	Server Programming in C# 
+•	SQL/NoSQL 
+•	Database Management 
+---
 
 
 
