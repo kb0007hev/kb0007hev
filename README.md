@@ -41,7 +41,7 @@ alt="MySQL logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
 alt="Git logo" width="50" height="50" /> 
 </div>
----
+
 
 
 
@@ -50,7 +50,7 @@ alt="Git logo" width="50" height="50" />
 
 <div align="center">
 <img alt="hmm.gif" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" style="position: relative; left: 30px; display: inline-block; margin: 0 auto;" data-hpc="true" class="Box-sc-g0xbh4" /> 
-  <h4I love engaging in ideas that improve things and make things better.</h4>
+<h4> love engaging in ideas that improve things and make things better.</h4>
 </div>
 
 
