@@ -17,9 +17,24 @@ I am a Full Stack Software Developer practicing and specializing in:
 
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> 
+
+
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
+alt="html logo" width="50" height="50" /> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
+alt="html logo" width="50" height="50" /> 
+
+
+
+
+
+
+
+
 
 
 
@@ -30,7 +45,16 @@ alt="CSS logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
 alt="JavaScript logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
-  alt="React logo" width="50" height="50" /> 
+alt="React logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" 
+alt="Express logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" 
+alt="mongoDB logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" 
+alt="Node logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
+alt="MySQL logo" width="50" height="50" /> 
+
 
 
 
