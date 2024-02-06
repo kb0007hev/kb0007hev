@@ -12,7 +12,7 @@ I am a Full Stack Software Developer practicing and specializing in:
 •	Express
 •	REACT
 •	NodeJS
-•	Server Sid Programming
+•	Server Side Programming
 •	SQL/NoSQL 
 •	Database Management 
 ---
